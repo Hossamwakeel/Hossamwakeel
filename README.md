@@ -4,8 +4,6 @@
      alt="Hello World" width="60%"/> 
 <br>
 
-<h2>Hello World 👋, I'm Hossam Elwakeel</h2>
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
      alt="Workspace" width="40%"/>
 
