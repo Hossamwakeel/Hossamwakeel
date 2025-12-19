@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m **Hossam Wakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a strong interest in turning data into clear, actionable insights that support business and decision-making.
+I’m **Hossam Elwakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a strong interest in turning data into clear, actionable insights that support business and decision-making.
 
 🎓 I study **Management Information Systems**, which gives me a solid foundation in both business and technology.
 
