@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Hossamwakeel/Hossamwakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Hossam Wakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a strong interest in turning data into clear, actionable insights that support business and decision-making.
 
-Here are some ideas to get you started:
+🎓 I study **Management Information Systems**, which gives me a solid foundation in both business and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I actively work with and learn data analysis tools, including:
+- **SQL** – querying and analyzing databases  
+- **Python** – data analysis, cleaning, and automation  
+- **Power BI** – dashboards and data visualization  
+- **Excel** – data cleaning, analysis, and reporting  
+
+📊 I focus on practical, real-world data analysis and continuously improve my analytical and technical skills to grow as a professional **Data Analyst**.
+
+🔗 **LinkedIn:** [Your LinkedIn Profile Here](PUT_YOUR_LINKEDIN_LINK_HERE)
