@@ -6,7 +6,7 @@
 
 I’m **Hossam Elwakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a passion for turning raw data into meaningful insights that help support smart decisions.
 
-🎓 I’m studying **Management Information Systems**, which gives me a strong foundation in both business and tech.
+🎓 I’m studyed**Management Information Systems**, which gives me a strong foundation in both business and tech.
 
 💼 I work with and actively learn key data analysis tools, including:
 - **SQL** – querying and analyzing databases  
