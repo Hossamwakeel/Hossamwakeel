@@ -1,20 +1,15 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
 ## 👋 About Me
 
-I’m **Hossam Elwakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a strong interest in turning data into clear, actionable insights that support business and decision-making.
+I’m **Hossam Elwakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a passion for turning raw data into meaningful insights that help support smart decisions.
 
-🎓 I study **Management Information Systems**, which gives me a solid foundation in both business and technology.
+🎓 I’m studying **Management Information Systems**, which gives me a strong foundation in both business and tech.
 
-💼 I actively work with and learn data analysis tools, including:
+💼 I work with and actively learn key data analysis tools, including:
 - **SQL** – querying and analyzing databases  
-- **Python** – data analysis, cleaning, and automation  
+- **Python** – data manipulation, analysis, and automation  
 - **Power BI** – dashboards and data visualization  
 - **Excel** – data cleaning, analysis, and reporting  
 
-📊 I focus on practical, real-world data analysis and continuously improve my analytical and technical skills to grow as a professional **Data Analyst**.
+📊 I’m dedicated to improving my technical and analytical skills through real projects and continuous learning, and I aim to grow as a professional **Data Analyst**.
 
-🔗 **LinkedIn:** [Your LinkedIn Profile Here](PUT_YOUR_LINKEDIN_LINK_HERE)
+🔗 **LinkedIn:** [linkedin.com/in/hossam-elwakeel-b26774314](https://www.linkedin.com/in/hossam-elwakeel-b26774314/)
