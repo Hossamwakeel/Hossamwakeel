@@ -1,3 +1,8 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
 ## 👋 About Me
 
 I’m **Hossam Elwakeel**, a **Data Analyst** currently **studying and working in data analysis**, with a strong interest in turning data into clear, actionable insights that support business and decision-making.
